@@ -20,7 +20,7 @@ The dataset description is available on RadiantMLHub. See [here](https://mlhub.e
 ## Citation
 
 Muhamed T., Azer K. (2023) “Spatio-Temporal Attention-based Unet for Field Boundary Detection”, Version 1.0, Radiant MLHub. [Date Accessed]
-Radiant MLHub. <https://doi.org/10.34911/rdnt.h28fju>
+Radiant MLHub. <https://doi.org/10.34911/rdnt.u7n266>
 
 ## License
 
